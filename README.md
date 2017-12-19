@@ -28,8 +28,8 @@
 
 1) HSE Schedule Bot
 2) Бот для Telegram, который поможет студентам НИУ ВШЭ следить за своим расписанием на неделю
-3) https://github.com/HSEScheduleBotTeam/BotDeveloping
-4) Рамзан Султыгов 164 - Main Logic, Юлия Полынова 14? - Main Logic, Артем Кашенко 164 - Main Logic
+3) https://github.com/HSEScheduleBotTeam/ScheduleBot
+4) Рамзан Султыгов 164 - Main Logic, Юлия Полынова 142 - Main Logic, Артем Кашенко 164 - Main Logic
 5)
 
 ====================================
