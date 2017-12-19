@@ -5,7 +5,7 @@
 
 ## Installation
 ```bash
-    git clone https://github.com/HSEScheduleBot/development
+    git clone https://github.com/HSEScheduleBotTeam/ScheduleBot
     cd hse_schedulebot
     pip install -p requirements.txt
     # modify config.py
