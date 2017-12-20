@@ -3,17 +3,11 @@
 * Python >= 3.6
 * PostgreSQL
 
-## Installation
-```bash
-    git clone https://github.com/HSEScheduleBotTeam/ScheduleBot
-    cd hse_schedulebot
-    pip install -p requirements.txt
-    # modify config.py
 
 ```
 
 ## Usage
-*Don't forget to change config.py!*
+
 
 ```bash
     python run.py -h
